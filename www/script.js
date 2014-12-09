@@ -1,4 +1,4 @@
 function loaded(){
-	document.getElementById("link").click();
+		window.open("http://confsitonew.maxapp.eu/app/index.php", '_system');
 
 }
