@@ -15,7 +15,6 @@
         Martinotti Davide
     </author>
 
-    <preference name="permissions" value="none"/>
 	<preference name="stay-in-webview" value="false" /> 
 	<preference name="target-device"              value="universal" />  
 	
