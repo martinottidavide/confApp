@@ -18,7 +18,7 @@ function loaded(){
 }
 
 function apriApp(){
-	//window.open("http://confsitonew.maxapp.eu/Agenti/", '_system');
+	window.open("http://confsitonew.maxapp.eu/Agenti/", '_system');
 	document.getElementById("link").click();
-	window.close();
+	//window.close();
 }
