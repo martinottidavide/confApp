@@ -1,7 +1,7 @@
 
 function loaded(){
 
-	window.open("http://conformgest.maxapp.eu/agenti", '_system');
+	window.open("https://conformgest.maxapp.eu/agenti", '_system');
 	//document.getElementById("link").click();
 	var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
 	var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
