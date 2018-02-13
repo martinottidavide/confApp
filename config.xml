@@ -18,7 +18,7 @@
 
 	<preference name="stay-in-webview" value="false" /> 
 	<preference name="target-device"              value="universal" />  
-	
+	<preference name="phonegap-version" value="cli-6.4.0" />
 	<icon src="icon.png" />
     <icon src="res/icon/android/drawable-ldpi/tp_icon.png" gap:platform="android" gap:qualifier="ldpi" />
     <icon src="res/icon/android/drawable-mdpi/tp_icon.png" gap:platform="android" gap:qualifier="mdpi" />
