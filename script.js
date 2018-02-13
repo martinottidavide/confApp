@@ -18,7 +18,7 @@ function loaded(){
 }
 
 function apriApp(){
-	window.open("http://conformgest.maxapp.eu/agenti", '_system');
+	window.open("https://conformgest.maxapp.eu/agenti", '_system');
 	document.getElementById("link").click();
 	//window.close();
 }
